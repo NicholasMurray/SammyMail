@@ -1,0 +1,1 @@
+This is a sample using Sammy to create an simple email app
